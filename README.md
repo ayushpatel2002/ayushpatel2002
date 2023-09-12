@@ -5,7 +5,7 @@ readme_content = """
 
 ![Banner Image or Portrait](URL_TO_YOUR_IMAGE)
 
-📧 [ayushpatel221002@gmail.com](mailto:ayushpatel221002@gmail.com) | 📞 0478896762 | [LinkedIn](https://linkedin.com/in/ayushkpatel) | [GitHub](https://github.com/ayushpatel2002)
+📧 [ayushpatel221002@gmail.com](mailto:ayushpatel221002@gmail.com) | [LinkedIn](https://linkedin.com/in/ayushkpatel) | [GitHub](https://github.com/ayushpatel2002)
 
 ## 📜 Profile
 
