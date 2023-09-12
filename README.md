@@ -1,6 +1,5 @@
 # Creating the README.md content
 
-readme_content = """
 # Ayush Patel 👋
 
 ![Banner Image or Portrait](URL_TO_YOUR_IMAGE)
