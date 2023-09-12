@@ -42,13 +42,17 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 
 ## Skills & Technologies
 
+## Skills & Technologies
+
 | **Skill Area**           | **Tools & Technologies**                    |
 |--------------------------|--------------------------------------------|
 | **Data Science**         | <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">, <img src="https://www.r-project.org/logo/Rlogo.png" width="60">, <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="60">, <img src="img/62e14245eb4d9a9dc054c181 (1).png" width="60"> |
-| **Programming & Scripting** | <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">, <img src="https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg" width="60">, <img src="https://www.javascript.com/assets/images/site/icon_logo_512x512-9d4ba87f.png" width="60">, <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="60">, <img src="https://docs.microsoft.com/en-us/powershell/images/generic-powershell.svg" width="60"> |
+| **Programming & Scripting** | <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">, <img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" width="60">, <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="60">, <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="60">, <img src="https://e1.pngegg.com/pngimages/64/313/png-clipart-simply-styled-icon-set-731-icons-free-powershell-white-and-blue-logo-illustration-thumbnail.png" width="60"> |
 | **Project Management**   | Agile, Traditional, Hybrid                  |
-| **Version Control**      | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="60">, <img src="https://www.mercurial-scm.org/wiki/Logo?action=AttachFile&do=get&target=mercurial_logo_256.png" width="60"> |
+| **Version Control**      | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="60">, <img src="https://cloudogu.com/images/blog/2013/04/mercurial-logo.png" width="60"> |
 | **Interpersonal Skills** | 🗣️, 🤝, 🕐, 💡                             |
+
+
 
 
 
