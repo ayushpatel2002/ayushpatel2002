@@ -36,13 +36,6 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 
 ## 🛠️ Skills and Technical Capabilities
 
-## Skills & Technologies
-
-## Skills & Technologies
-
-## Skills & Technologies
-
-## Skills & Technologies
 
 | **Skill Area**           | **Tools & Technologies**                    |
 |--------------------------|--------------------------------------------|
@@ -50,7 +43,9 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 | **Programming & Scripting** | <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">, <img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" width="60">, <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="60">, <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="60">, <img src="https://e1.pngegg.com/pngimages/64/313/png-clipart-simply-styled-icon-set-731-icons-free-powershell-white-and-blue-logo-illustration-thumbnail.png" width="60"> |
 | **Project Management**   | Agile, Traditional, Hybrid                  |
 | **Version Control**      | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="60">, <img src="https://cloudogu.com/images/blog/2013/04/mercurial-logo.png" width="60"> |
-| **Interpersonal Skills** | 🗣️, 🤝, 🕐, 💡                             |
+| **Interpersonal Skills** | Communication 🗣️, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑 |
+
+
 
 
 
