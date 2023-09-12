@@ -36,11 +36,14 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 
 ## 🛠️ Skills and Technical Capabilities
 
-- **Data Science**: Data Wrangling (R, SQL, and spreadsheet), Machine Learning, Deep Learning, Tableau Desktop
-- **Programming & Scripting**: Python, Java, JavaScript, Shell/Bash, PowerShell
-- **Project Management**: Agile, Traditional, Hybrid
-- **Version Control**: Git, Mercurial
-- **Interpersonal Skills**: Communication, Teamwork, Resilience, Critical Thinking, Adaptability, Time Management, Problem Solving, Leadership
+| Skill Area           | Tools & Technologies                         |
+|----------------------|----------------------------------------------|
+| Data Science         | ![Python Logo](https://www.python.org/static/community_logos/python-logo.png), ![R Logo](https://www.r-project.org/logo/Rlogo.png), ![SQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png), ![Tableau Logo](https://www.tableau.com/themes/custom/tableau_www/logo.png) |
+| Programming & Scripting | ![Python Logo](https://www.python.org/static/community_logos/python-logo.png), ![Java Logo](https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg), ![JavaScript Logo](https://www.javascript.com/assets/images/site/icon_logo_512x512-9d4ba87f.png), ![Shell Logo](https://cdn.worldvectorlogo.com/logos/bash-1.svg), ![PowerShell Logo](https://docs.microsoft.com/en-us/powershell/images/generic-powershell.svg) |
+| Project Management   | Agile, Traditional, Hybrid                   |
+| Version Control      | ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png), ![Mercurial Logo](https://www.mercurial-scm.org/wiki/Logo?action=AttachFile&do=get&target=mercurial_logo_256.png) |
+| Interpersonal Skills | 🗣️, 🤝, 🕐, 💡 |
+
 
 ## 📁 Projects
 
