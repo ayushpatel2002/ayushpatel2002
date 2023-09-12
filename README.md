@@ -1,5 +1,3 @@
-# Creating the README.md content
-
 # Ayush Patel 👋
 
 ![Banner Image or Portrait](URL_TO_YOUR_IMAGE)
@@ -82,5 +80,3 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
    - Conducted advanced SQL analyses to detect high-risk trends.
    - Visualized fraud patterns using Pandas and Plotly Express.
    - Used statistical methods for anomaly identification.
-
-"""
