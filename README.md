@@ -38,11 +38,13 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 
 | Skill Area           | Tools & Technologies                         |
 |----------------------|----------------------------------------------|
-| Data Science         | ![Python Logo](https://www.python.org/static/community_logos/python-logo.png), ![R Logo](https://www.r-project.org/logo/Rlogo.png), ![SQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png), ![Tableau Logo](https://www.tableau.com/themes/custom/tableau_www/logo.png) |
-| Programming & Scripting | ![Python Logo](https://www.python.org/static/community_logos/python-logo.png), ![Java Logo](https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg), ![JavaScript Logo](https://www.javascript.com/assets/images/site/icon_logo_512x512-9d4ba87f.png), ![Shell Logo](https://cdn.worldvectorlogo.com/logos/bash-1.svg), ![PowerShell Logo](https://docs.microsoft.com/en-us/powershell/images/generic-powershell.svg) |
+| Data Science         | <img src="https://www.python.org/static/community_logos/python-logo.png" width="30">, <img src="https://www.r-project.org/logo/Rlogo.png" width="30">, <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30">, <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" width="30"> |
+| Programming & Scripting | <img src="https://www.python.org/static/community_logos/python-logo.png" width="30">, <img src="https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg" width="30">, <img src="https://www.javascript.com/assets/images/site/icon_logo_512x512-9d4ba87f.png" width="30">, <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="30">, <img src="https://docs.microsoft.com/en-us/powershell/images/generic-powershell.svg" width="30"> |
 | Project Management   | Agile, Traditional, Hybrid                   |
-| Version Control      | ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png), ![Mercurial Logo](https://www.mercurial-scm.org/wiki/Logo?action=AttachFile&do=get&target=mercurial_logo_256.png) |
+| Version Control      | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="30">, <img src="https://www.mercurial-scm.org/wiki/Logo?action=AttachFile&do=get&target=mercurial_logo_256.png" width="30"> |
 | Interpersonal Skills | 🗣️, 🤝, 🕐, 💡 |
+
+
 
 
 ## 📁 Projects
