@@ -1,8 +1,6 @@
 # Ayush Patel 👋
 
-![Banner Image or Portrait](URL_TO_YOUR_IMAGE)
-
-📧 [ayushpatel221002@gmail.com](mailto:ayushpatel221002@gmail.com) | [LinkedIn](https://linkedin.com/in/ayushkpatel) | [GitHub](https://github.com/ayushpatel2002)
+📧 [ayushpatel221002@gmail.com](mailto:ayushpatel221002@gmail.com) | [LinkedIn](https://linkedin.com/in/ayushkpatel)
 
 ## 📜 Profile
 
@@ -13,7 +11,6 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 **Bachelor Of Information Technology** | RMIT city campus
 - 2021 – 2023
 - Passionately expanding my expertise in IT, with a focus on data science.
-- Current GPA: 3.6 out of 4 (82 WAM).
 
 ## 💼 Work Experience
 
