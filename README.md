@@ -4,8 +4,6 @@
 
 ## 📜 Profile
 
-Up-and-coming data lover who enjoys turning numbers into meaningful stories. Currently studying Information Technology at RMIT, I've delved deep into the intricacies of data, weaving machine learning concepts into tangible solutions. My portfolio, rich with diverse projects, mirrors my dedication and determination. Enthusiastically venturing further into data science and analytics, I'm poised to transform raw data into insightful discoveries.
-
 
 <p align="left">Up-and-coming data lover who enjoys turning numbers into meaningful stories. Currently studying Information Technology at RMIT, I've delved deep into the intricacies of data, weaving machine learning concepts into tangible solutions. My portfolio, rich with diverse projects, mirrors my dedication and determination. Enthusiastically venturing further into data science and analytics, I'm poised to transform raw data into insightful discoveries.</p>
 
@@ -54,7 +52,7 @@ Up-and-coming data lover who enjoys turning numbers into meaningful stories. Cur
 
 ###
 
-<img src="https://raw.githubusercontent.com/ayushpatel2002/ayushpatel2002/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/ayushpatel2002/ayushpatel2002/output/snake.svg](https://github.com/ayushpatel2002/ayushpatel2002/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
 
