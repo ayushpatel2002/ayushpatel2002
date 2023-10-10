@@ -6,6 +6,59 @@
 
 Up-and-coming data lover who enjoys turning numbers into meaningful stories. Currently studying Information Technology at RMIT, I've delved deep into the intricacies of data, weaving machine learning concepts into tangible solutions. My portfolio, rich with diverse projects, mirrors my dedication and determination. Enthusiastically venturing further into data science and analytics, I'm poised to transform raw data into insightful discoveries.
 
+
+<p align="left">Up-and-coming data lover who enjoys turning numbers into meaningful stories. Currently studying Information Technology at RMIT, I've delved deep into the intricacies of data, weaving machine learning concepts into tangible solutions. My portfolio, rich with diverse projects, mirrors my dedication and determination. Enthusiastically venturing further into data science and analytics, I'm poised to transform raw data into insightful discoveries.</p>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayushkpatel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="ayushpatel221002@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="350" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ayushpatel2002/ayushpatel2002/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ## 🎓 Education
 
 **Bachelor Of Information Technology** | RMIT city campus
