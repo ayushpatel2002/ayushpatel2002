@@ -52,7 +52,7 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/ayushpatel2002/ayushpatel2002/output/snake.svg](https://github.com/ayushpatel2002/ayushpatel2002/blob/main/snake.yml)" alt="Snake animation" />
+<img src="[img/github-user-contribution.svg](img/github-user-contribution.svg)" alt="Snake animation" />
 
 ###
 
