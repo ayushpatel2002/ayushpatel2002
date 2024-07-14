@@ -19,9 +19,10 @@ A highly motivated data enthusiast with a passion for solving problems and uncov
 
 <br clear="both">
 
-<div align="center">
-  <img height="350" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif"  />
+<div align="center" style="border-radius: 15px; box-shadow: 0 0 15px rgba(128,128,128,0.5), 0 0 30px rgba(0,0,0,0.5); overflow: hidden;">
+  <img height="350" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif" style="border-radius: 15px;" />
 </div>
+
 
 
 ## 🎓 Education
