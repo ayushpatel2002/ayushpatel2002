@@ -6,6 +6,18 @@
 
 A highly motivated data enthusiast with a passion for solving problems and uncovering hidden truths within data. By leveraging data modeling, visualizations, and analytical skills, I deliver actionable insights to drive meaningful change. With a strong academic foundation and diverse hands-on experience, I bring a critical eye and collaborative spirit to every project. Ready to unlock the potential within your data and contribute to data-driven decisions and initiatives.
 
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayushkpatel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="ayushpatel221002@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+
 ## 🎓 Education
 
 **Bachelor Of Information Technology** | RMIT city campus
@@ -31,9 +43,13 @@ A highly motivated data enthusiast with a passion for solving problems and uncov
 
 ## 🛠️ Skills and Technical Capabilities
 
-| **Skill Area**           | **Tools & Technologies**                    |
+| **Skill Area**           | **Tools & Technologies**                   |
 |--------------------------|--------------------------------------------|
-| **Data Science**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  /> |
+| **Data Science**         | <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">, <img src="https://www.r-project.org/logo/Rlogo.png" width="60">, <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="60">, <img src="img/62e14245eb4d9a9dc054c181 (1).png" width="60"> |
+| **Programming & Scripting** | <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">, <img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" width="60">, <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="60">, <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="60">, <img src="https://e1.pngegg.com/pngimages/64/313/png-clipart-simply-styled-icon-set-731-icons-free-powershell-white-and-blue-logo-illustration-thumbnail.png" width="60"> |
+| **Project Management**   | Agile, Traditional, Hybrid                  |
+| **Version Control**      | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="60">, <img src="https://cloudogu.com/images/blog/2013/04/mercurial-logo.png" width="60"> |
+| **Interpersonal Skills** | Communication 🗣️, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑 |
 
 ## 📁 Projects
 
