@@ -26,6 +26,7 @@ A highly motivated data enthusiast with a passion for solving problems and uncov
 
 
 
+
 ## 🎓 Education
 
 **Bachelor Of Information Technology** | RMIT city campus
