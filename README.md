@@ -36,7 +36,7 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 
   </td>
     <td width="40%">
-      <img src="img/20250301_2247_Digital AI Odyssey_remix_01jn8xmp7hf7pbp2x2ywd23mn8.gif" width="250px" />
+      <img src="img/1637012636806.png" width="300px" />
     </td>
   </tr>
 </table>
