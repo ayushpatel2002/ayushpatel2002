@@ -31,7 +31,7 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 
   </td>
       <td width="45%">
-        <img src="img/20250301_2247_Digital AI Odyssey_remix_01jn8xmp7hf7pbp2x2ywd23mn8.gif" width="350px" />
+        <img src="img/1637012636806.png" width="350px" />
       </td>
     </tr>
   </table>
@@ -41,18 +41,22 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 
 ## 💼 Work Experience
 
-### **Department of Education & Training, Northern Territory** | *Graduate Data Analyst* (Jan 2025 – Present)
-- **📊 Data-Driven Policy Insights:** Analyzing **Australian Early Development Census (AEDC)** data to identify key trends for evidence-based policy formulation.
-- **📈 Power BI Dashboards:** Developing **interactive dashboards** using **Power BI & DAX** for advanced data modeling and reporting.
-- **📉 Statistical Analysis & Program Evaluation:** Assessing **education initiatives** to measure impact and drive continuous improvement strategies.
-- **🤝 Stakeholder Collaboration:** Partnering with **policymakers & internal teams** to translate data into actionable strategies for improving education outcomes.
+### **Graduate Data Analyst**  
+📍 *Department of Education and Training, Northern Territory*  
+📅 *Jan 2025 – Present*
+- **📊 Informing Policy with Data-Driven Insights:** Analyzing **Australian Early Development Census (AEDC)** data to identify trends supporting **evidence-based education policies**.
+- **📈 Data Visualization & Reporting:** Developing **interactive Power BI dashboards**, leveraging **DAX** for advanced data modeling and reporting.
+- **📉 Statistical Analysis & Program Evaluation:** Conducting **impact assessments** to measure the effectiveness of **education initiatives**.
+- **🤝 Stakeholder Collaboration:** Partnering with **policymakers & internal teams** to translate data insights into **actionable strategies** for enhancing education outcomes.
 
 ---
 
-### **Digicor, Oakleigh** | *Data Lakehouse Intern* (Jul 2023 – Oct 2023)
-- **🚀 Data Lakehouse Development:** Built a **data lakehouse** using **Apache Spark & Delta Lake**, reducing costs by **28%** and enhancing **analytics & ML workflows**.
-- **⚡ Data Processing:** Refined **data pipelines & storage systems**, boosting **data quality** and **processing efficiency by 20%**.
-- **🔗 System Optimization & Data Access:** Assisted in **API development, Python tool integration, and documentation**, improving **data accessibility & performance insights**.
+### **Data Lakehouse Intern**  
+📍 *Digicor, Oakleigh*  
+📅 *Jul 2023 – Oct 2023*
+- **🚀 Project Development:** Spearheaded the **data lakehouse build** using **Apache Spark & Delta Lake**, reducing costs by **28%** and improving **analytics & ML pipelines**.
+- **⚡ Data Processing:** Assisted in refining **data pipelines & storage systems**, optimizing metadata schemas to enhance **data quality & processing efficiency by 20%**.
+- **🔗 System Optimization & Data Access:** Aided in **API development, Python tool integration, and documentation streamlining**, improving **data accessibility & analytical capabilities**.
 
 ---
 
@@ -88,10 +92,10 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 ## 📁 Featured Projects
 
 ### 🚀 **[Energy Use Prediction Using R](https://github.com/ayushpatel2002/Energy-Use-Prediction-with-R)**
-- 🔍 **Data Cleaning & Preprocessing:** Processed hourly **time-series energy data**, handling **missing values & outliers**.
-- 📊 **Exploratory Data Analysis (EDA):** Identified trends in **energy consumption**, uncovering key influencing factors.
+- 🔍 **Data Cleaning & Preprocessing:** Cleaned **hourly energy consumption data**, handling missing values & outliers.
+- 📊 **Exploratory Data Analysis (EDA):** Identified **trends in energy usage**, uncovering key influencing factors.
 - ⚡ **Feature Engineering:** Created **lagged values & rolling statistics**, improving model interpretability.
-- 🏆 **Model Validation & Insights:** Achieved **robust model performance** with real-world validation.
+- 🏆 **Model Validation & Insights:** Achieved **high prediction accuracy**, ensuring **robust model performance**.
 
 ---
 
