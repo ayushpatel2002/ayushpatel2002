@@ -1,72 +1,68 @@
 <h1 align="center">Ayush Patel 👋</h1>
 
 <p align="center">
-  📧 <a href="mailto:ayushkp38@gmail.com">ayushkp38@gmail.com</a> | 
-  <a href="https://linkedin.com/in/ayushkpatel">LinkedIn</a>
+  📧 <a href="mailto:ayushkp38@gmail.com">ayushkp38@gmail.com</a> |
+  <a href="https://linkedin.com/in/ayushkpatel">LinkedIn</a> |
+  <a href="https://github.com/ayushpatel2002">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-A **highly motivated data enthusiast** with a passion for **solving problems** and **uncovering hidden truths within data**. I specialize in **data modeling, visualization, and analytics** to deliver actionable insights that drive meaningful change. 
+A **highly motivated data enthusiast** passionate about **solving complex problems** and **uncovering insights from data**. By leveraging **data modeling, visualization, and analytics**, I deliver actionable insights to drive meaningful change.
 
-With a **strong academic foundation** and **diverse hands-on experience**, I bring a **critical eye** and **collaborative spirit** to every project. I'm always eager to explore new **data-driven innovations** and contribute to impactful initiatives.
+With a **strong academic foundation** and **diverse hands-on experience**, I bring a **critical eye** and **collaborative spirit** to every project. I am excited to **unlock data potential** and contribute to **data-driven decision-making**.
 
 ---
 
-<div align="center">
-  <a href="https://linkedin.com/in/ayushkpatel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  <a href="mailto:ayushpatel221002@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
+<div align="center" style="border-radius: 15px; box-shadow: 0 0 15px rgba(128,128,128,0.5), 0 0 30px rgba(0,0,0,0.5); overflow: hidden; background: black; padding: 10px;">
+  <img src="img/20250301_2247_Digital AI Odyssey_remix_01jn8xmp7hf7pbp2x2ywd23mn8.gif" style="border-radius: 30px;" />
 </div>
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor of Information Technology**  
+🎓 **Bachelor of Information Technology (Data Science Major)**  
 📍 *RMIT University (City Campus)*  
 📅 2021 – 2024  
-📊 **GPA:** 3.5 / 4 (**WAM:** 82)  
-🔍 **Focus Areas:** Statistics, Predictive Modeling, Data Visualization  
+📊 **GPA:** 3.5 / 4 (**WAM:** 85)  
+🔍 **Key Focus Areas:** Statistics, Predictive Modeling, Data Visualization  
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
+
+### **Department of Education & Training, Northern Territory** | *Graduate Data Analyst* (Jan 2025 – Present)
+- **📊 Data-Driven Policy Insights:** Analyzing **Australian Early Development Census (AEDC)** data to identify key trends for evidence-based policy formulation.
+- **📈 Power BI Dashboards:** Developing **interactive dashboards** using **Power BI & DAX** for advanced data modeling and reporting.
+- **📉 Statistical Analysis & Program Evaluation:** Assessing **education initiatives** to measure impact and drive continuous improvement strategies.
+- **🤝 Stakeholder Collaboration:** Partnering with **policymakers & internal teams** to translate data into actionable strategies for improving education outcomes.
+
+---
 
 ### **Digicor, Oakleigh** | *Data Lakehouse Intern* (Jul 2023 – Oct 2023)
-- **🚀 Data Lakehouse Development:** Spearheaded a **data lakehouse build** using **Apache Spark & Delta Lake**, reducing costs by **28%** and enhancing analytics & ML pipelines.
-- **⚡ Data Processing:** Refined **data pipelines & storage systems**, improving data quality and accelerating processing by **20%**.
-- **🔗 API & Tool Implementation:** Assisted in **API development** and **Python tool integration** to enhance **data access & analytics**.
-- **📊 Performance Optimization:** Contributed to **system evaluations**, improving **documentation** and generating **data-driven insights**.
-
-### **RMIT University** | *Student Research Assistant* (Nov 2022 – Present)
-- **🌐 Distributed Data Storage:** Researched **decentralized storage systems**, expanding expertise in **distributed computing**.
-- **📁 Data Handling & Organization:** Collected, structured, and interpreted large-scale datasets to **elevate research accuracy**.
-- **📚 Literature Engagement:** Kept up with **cutting-edge research methodologies**, ensuring **state-of-the-art insights**.
-- **📊 Data Visualization:** Used **data visualization tools** to effectively communicate insights & improve team collaboration.
+- **🚀 Data Lakehouse Development:** Built a **data lakehouse** using **Apache Spark & Delta Lake**, reducing costs by **28%** and enhancing **analytics & ML workflows**.
+- **⚡ Data Processing:** Refined **data pipelines & storage systems**, boosting **data quality** and **processing efficiency by 20%**.
+- **🔗 System Optimization & Data Access:** Assisted in **API development, Python tool integration, and documentation**, improving **data accessibility & performance insights**.
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ Skills & Technical Proficiency
 
-### 🧠 **Core Competencies**
+### 🔍 **Core Competencies**
 ✅ Data Science & Machine Learning  
-✅ Predictive Modeling & Statistics  
+✅ Predictive Modeling & Time Series Forecasting  
 ✅ Data Visualization & Storytelling  
 ✅ SQL & Database Management  
-✅ Big Data & Cloud Technologies  
+✅ Cloud Computing & AI Technologies  
 
 ### 🔨 **Tech Stack**
 | **Category**          | **Tools & Technologies**  |
 |----------------------|-------------------------|
 | 📊 **Data Science** | Python, R, SQL, Apache Spark, Scikit-learn |
-| 💻 **Programming** | Python, Java, JavaScript, Bash, PowerShell |
+| 💻 **Programming** | Python, Java, JavaScript, Shell/Bash, PowerShell |
 | 🗃️ **Databases** | PostgreSQL, MySQL, MongoDB, Azure Data Studio |
 | 🛠 **Version Control** | Git, GitHub, Mercurial |
 | 📈 **Project Management** | Agile, Traditional, Hybrid |
@@ -85,32 +81,44 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 ## 📁 Featured Projects
 
 ### 🚀 **[Energy Use Prediction Using R](https://github.com/ayushpatel2002/Energy-Use-Prediction-with-R)**
-- 🔍 **Data Preprocessing:** Cleaned & prepared **hourly energy data**, handling missing values & outliers.
-- 📊 **Feature Engineering & EDA:** Generated **lagged values & rolling statistics** for trend analysis.
-- 🏆 **Model Development:** Trained **Random Forest, Gradient Boosting, & LSTM**, achieving **R² = 0.83**.
-- ✅ **Validation:** Ensured **model generalizability** using real-world datasets.
+- 🔍 **Data Cleaning & Preprocessing:** Processed hourly **time-series energy data**, handling **missing values & outliers**.
+- 📊 **Exploratory Data Analysis (EDA):** Identified trends in **energy consumption**, uncovering key influencing factors.
+- ⚡ **Feature Engineering:** Created **lagged values & rolling statistics**, improving model interpretability.
+- 🏆 **Model Validation & Insights:** Achieved **robust model performance** with real-world validation.
 
 ---
 
 ### 🤖 **[NLP-Based Job Advertisement Classification](https://github.com/ayushpatel2002/Flask-JobSeeker-with-NLP)**
-- 📄 **Text Cleaning & Tokenization:** Processed **180,000+ tokens** using Pandas & NLTK.
-- 🔢 **Categorization Automation:** Built **ML classifier** to group job ads into **three categories**.
-- 🚀 **Deployment:** Launched as a **Flask Web App**, improving job search efficiency.
+- 📄 **Data Cleaning & Preprocessing:** Tokenized, normalized, and **filtered job ads** for accurate classification.
+- 🔢 **Text Analysis & Categorization:** Processed **180,000+ tokens**, improving **job search efficiency**.
+- 📊 **Exploratory Data Analysis:** Discovered **common features** across job categories.
+- 🏆 **Model Optimization:** Achieved **85.15% cross-validation accuracy** with **logistic regression**.
+- 🚀 **Application Deployment:** Developed as a **Flask Web App**, automating job classification.
 
 ---
 
 ### 🔍 **[Fraud Detection with SQL](https://github.com/ayushpatel2002/FraudDetectionWithSQL)**
-- 🏗 **SQL Data Modeling:** Designed & deployed an **optimized PostgreSQL schema**.
-- 🔬 **Advanced Analytics:** Identified high-risk transactional trends using **complex SQL queries**.
-- 📊 **Data Visualization:** Utilized **Pandas & Plotly Express** for fraud pattern detection.
-- 📉 **Statistical Analysis:** Applied **IQR & standard deviation** for anomaly detection.
+- 🏗 **SQL Data Modeling & Analytics:** Designed an **optimized PostgreSQL schema** for fraud detection.
+- 🔬 **Advanced SQL Queries:** Analyzed **high-risk transactions**, identifying fraud-prone behaviors.
+- 📊 **Data Visualization:** Used **Pandas & Plotly Express** to detect fraudulent trends.
+- 📉 **Statistical Anomaly Detection:** Applied **IQR & standard deviation** to flag suspicious activity.
+
+---
+
+## 🎖 Certifications
+
+### ✅ **Microsoft Certified: Azure AI Fundamentals**
+- Earned **Azure AI Fundamentals** certification, demonstrating expertise in **AI concepts & Azure services**.
+
+### ✅ **Peer Mentoring – RMIT University**
+- Provided **mentorship** to **computer science & IT students**, enhancing **academic guidance & community engagement**.
 
 ---
 
 ## 🌟 Let's Connect!
 📧 [ayushkp38@gmail.com](mailto:ayushkp38@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/ayushkpatel)  
-🌐 [GitHub](https://github.com/ayushpatel2002)
+🌐 [GitHub](https://github.com/ayushpatel2002)  
 
 ---
 
