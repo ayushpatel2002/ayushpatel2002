@@ -28,7 +28,7 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 📊 **GPA:** 3.5 / 4 (**WAM:** 85)  
 🔍 **Key Focus Areas:** Statistics, Predictive Modeling, Data Visualization  
 
-    </div>
+  </div>
     <div style="width: 40%;">
       <img src="img/20250301_2247_Digital AI Odyssey_remix_01jn8xmp7hf7pbp2x2ywd23mn8.gif" width="100%" />
     </div>
