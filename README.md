@@ -16,19 +16,24 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 
 ---
 
-<div align="center" style="border-radius: 15px; box-shadow: 0 0 15px rgba(128,128,128,0.5), 0 0 30px rgba(0,0,0,0.5); overflow: hidden; background: black; padding: 10px;">
-  <img src="img/20250301_2247_Digital AI Odyssey_remix_01jn8xmp7hf7pbp2x2ywd23mn8.gif" style="border-radius: 30px;" />
-</div>
+## 🎓 Education & Certification
 
----
-
-## 🎓 Education
-
+<table>
+  <tr>
+    <td width="60%">
+      
 🎓 **Bachelor of Information Technology (Data Science Major)**  
 📍 *RMIT University (City Campus)*  
 📅 2021 – 2024  
 📊 **GPA:** 3.5 / 4 (**WAM:** 85)  
 🔍 **Key Focus Areas:** Statistics, Predictive Modeling, Data Visualization  
+
+    </td>
+    <td width="40%">
+      <img src="img/20250301_2247_Digital AI Odyssey_remix_01jn8xmp7hf7pbp2x2ywd23mn8.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
