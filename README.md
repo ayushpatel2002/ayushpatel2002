@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-A **highly motivated data enthusiast** passionate about **solving complex problems** and **uncovering insights from data**. By leveraging **data modeling, visualization, and analytics**, I deliver actionable insights to drive meaningful change.
+A **highly motivated data professional** passionate about **solving complex problems** and **uncovering insights from data**. By leveraging **data modeling, visualization, and analytics**, I deliver actionable insights to drive meaningful change.
 
 With a **strong academic foundation** and **diverse hands-on experience**, I bring a **critical eye** and **collaborative spirit** to every project. I am excited to **unlock data potential** and contribute to **data-driven decision-making**.
 
@@ -23,7 +23,7 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
     <tr>
       <td width="55%">
         
-🔹 **Bachelor of Information Technology (Data Science Major)**  
+ **Bachelor of Information Technology (Data Science Major)**  
 📍 *RMIT University (City Campus)*  
 📅 **2021 – 2024**  
 📊 **GPA:** 3.5 / 4 (**WAM:** 85)  
