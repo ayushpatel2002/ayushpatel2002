@@ -21,9 +21,6 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 <table>
   <tr>
     <td width="60%">
-      
-## 🎓 Education & Certification
-
 <table>
   <tr>
     <td width="60%">
