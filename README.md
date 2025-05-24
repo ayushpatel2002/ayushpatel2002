@@ -43,7 +43,7 @@ With a **strong academic foundation** and **diverse hands-on experience**, I bri
 
 ### **Graduate Data Analyst**  
 📍 *Department of Education and Training, Northern Territory*  
-📅 *Jan 2025 – Present*
+📅 *Jan 2024 – Present*
 - **📊 Informing Policy with Data-Driven Insights:** Analyzing **Australian Early Development Census (AEDC)** data to identify trends supporting **evidence-based education policies**.
 - **📈 Data Visualization & Reporting:** Developing **interactive Power BI dashboards**, leveraging **DAX** for advanced data modeling and reporting.
 - **📉 Statistical Analysis & Program Evaluation:** Conducting **impact assessments** to measure the effectiveness of **education initiatives**.
