@@ -1,4 +1,6 @@
-<h1 align="center">Ayush Patel 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Patel+👋;Data+Analyst+%7C+Turning+Data+Into+Impact;Power+BI+%7C+SQL+%7C+R+%7C+Python" />
+</p>
 
 <p align="center">
   📧 <a href="mailto:ayushkp38@gmail.com">ayushkp38@gmail.com</a> |
@@ -8,129 +10,89 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-A **highly motivated data professional** passionate about **solving complex problems** and **uncovering insights from data**. By leveraging **data modeling, visualization, and analytics**, I deliver actionable insights to drive meaningful change.
+I’m a **data analyst** who loves uncovering stories hidden in data.  
+From **Power BI dashboards** guiding education policy to **SQL-based fraud detection systems**,  
+I thrive on turning complexity into clarity.  
 
-With a **strong academic foundation** and **diverse hands-on experience**, I bring a **critical eye** and **collaborative spirit** to every project. I am excited to **unlock data potential** and contribute to **data-driven decision-making**.
-
----
-
-## 🎓 Education & Certification
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="55%">
-        
- **Bachelor of Information Technology (Data Science Major)**  
-📍 *RMIT University (City Campus)*  
-📅 **2021 – 2024**  
-📊 **GPA:** 3.5 / 4 (**WAM:** 85)  
-🔍 **Key Focus Areas:** Statistics, Predictive Modeling, Data Visualization  
-
-  </td>
-      <td width="45%">
-        <img src="img/1637012636806.png" width="350px" />
-      </td>
-    </tr>
-  </table>
-</div>
+✨ My focus: **Data → Insights → Impact.**
 
 ---
 
-## 💼 Work Experience
+## 🎓 Education  
 
-### **Graduate Data Analyst**  
-📍 *Department of Education and Training, Northern Territory*  
-📅 *Jan 2024 – Present*
-- **📊 Informing Policy with Data-Driven Insights:** Analyzing **Australian Early Development Census (AEDC)** data to identify trends supporting **evidence-based education policies**.
-- **📈 Data Visualization & Reporting:** Developing **interactive Power BI dashboards**, leveraging **DAX** for advanced data modeling and reporting.
-- **📉 Statistical Analysis & Program Evaluation:** Conducting **impact assessments** to measure the effectiveness of **education initiatives**.
-- **🤝 Stakeholder Collaboration:** Partnering with **policymakers & internal teams** to translate data insights into **actionable strategies** for enhancing education outcomes.
+**Bachelor of Information Technology (Data Science Major)**  
+📍 *RMIT University* (2021 – 2024) | GPA 3.5 / 4 | WAM 85  
 
 ---
 
-### **Data Lakehouse Intern**  
-📍 *Digicor, Oakleigh*  
-📅 *Jul 2023 – Oct 2023*
-- **🚀 Project Development:** Spearheaded the **data lakehouse build** using **Apache Spark & Delta Lake**, reducing costs by **28%** and improving **analytics & ML pipelines**.
-- **⚡ Data Processing:** Assisted in refining **data pipelines & storage systems**, optimizing metadata schemas to enhance **data quality & processing efficiency by 20%**.
-- **🔗 System Optimization & Data Access:** Aided in **API development, Python tool integration, and documentation streamlining**, improving **data accessibility & analytical capabilities**.
+## 🛠️ Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Skills & Technical Proficiency
+## 📊 Featured Projects  
 
-### 🔍 **Core Competencies**
-✅ Data Science & Machine Learning  
-✅ Predictive Modeling & Time Series Forecasting  
-✅ Data Visualization & Storytelling  
-✅ SQL & Database Management  
-✅ Cloud Computing & AI Technologies  
+<details>
+  <summary>🔍 Energy Use Prediction (R)</summary>
+  Forecasting household energy demand with feature engineering & predictive modeling.  
+  <a href="https://github.com/ayushpatel2002/Energy-Use-Prediction-with-R">🔗 View Project</a>
+</details>
 
-### 🔨 **Tech Stack**
-| **Category**          | **Tools & Technologies**  |
-|----------------------|-------------------------|
-| 📊 **Data Science** | Python, R, SQL, Apache Spark, Scikit-learn |
-| 💻 **Programming** | Python, Java, JavaScript, Shell/Bash, PowerShell |
-| 🗃️ **Databases** | PostgreSQL, MySQL, MongoDB, Azure Data Studio |
-| 🛠 **Version Control** | Git, GitHub, Mercurial |
-| 📈 **Project Management** | Agile, Traditional, Hybrid |
+<details>
+  <summary>🤖 NLP Job Advertisement Classifier (Flask + ML)</summary>
+  Automated classification of job ads with NLP preprocessing & logistic regression (85% accuracy).  
+  <a href="https://github.com/ayushpatel2002/Flask-JobSeeker-with-NLP">🔗 View Project</a>
+</details>
 
-### 🤝 **Interpersonal Skills**
-- **Communication** 🗣️
-- **Problem Solving** 🔍
-- **Adaptability** 🌿
-- **Critical Thinking** 🧠
-- **Time Management** ⏳
-- **Leadership** 👑
-- **Collaboration** 🤝
+<details>
+  <summary>🛡️ Fraud Detection with SQL</summary>
+  PostgreSQL schema & anomaly detection to identify high-risk transactions.  
+  <a href="https://github.com/ayushpatel2002/FraudDetectionWithSQL">🔗 View Project</a>
+</details>
 
 ---
 
-## 📁 Featured Projects
+## 💼 Experience  
 
-### 🚀 **[Energy Use Prediction Using R](https://github.com/ayushpatel2002/Energy-Use-Prediction-with-R)**
-- 🔍 **Data Cleaning & Preprocessing:** Cleaned **hourly energy consumption data**, handling missing values & outliers.
-- 📊 **Exploratory Data Analysis (EDA):** Identified **trends in energy usage**, uncovering key influencing factors.
-- ⚡ **Feature Engineering:** Created **lagged values & rolling statistics**, improving model interpretability.
-- 🏆 **Model Validation & Insights:** Achieved **high prediction accuracy**, ensuring **robust model performance**.
+**Graduate Data Analyst** – *NT Department of Education*  
+📅 Jan 2024 – Present  
+- Built Power BI dashboards for **policy insights**  
+- Analyzed **AEDC datasets** to guide education planning  
+- Delivered **impact assessments** for programs  
 
----
-
-### 🤖 **[NLP-Based Job Advertisement Classification](https://github.com/ayushpatel2002/Flask-JobSeeker-with-NLP)**
-- 📄 **Data Cleaning & Preprocessing:** Tokenized, normalized, and **filtered job ads** for accurate classification.
-- 🔢 **Text Analysis & Categorization:** Processed **180,000+ tokens**, improving **job search efficiency**.
-- 📊 **Exploratory Data Analysis:** Discovered **common features** across job categories.
-- 🏆 **Model Optimization:** Achieved **85.15% cross-validation accuracy** with **logistic regression**.
-- 🚀 **Application Deployment:** Developed as a **Flask Web App**, automating job classification.
+**Data Lakehouse Intern** – *Digicor*  
+📅 Jul 2023 – Oct 2023  
+- Built a **data lakehouse** with Apache Spark & Delta Lake  
+- Improved pipeline efficiency by **20%**  
+- Supported **API development** for data access  
 
 ---
 
-### 🔍 **[Fraud Detection with SQL](https://github.com/ayushpatel2002/FraudDetectionWithSQL)**
-- 🏗 **SQL Data Modeling & Analytics:** Designed an **optimized PostgreSQL schema** for fraud detection.
-- 🔬 **Advanced SQL Queries:** Analyzed **high-risk transactions**, identifying fraud-prone behaviors.
-- 📊 **Data Visualization:** Used **Pandas & Plotly Express** to detect fraudulent trends.
-- 📉 **Statistical Anomaly Detection:** Applied **IQR & standard deviation** to flag suspicious activity.
+## 🎖 Certifications  
+
+- ✅ Microsoft Certified: **Azure AI Fundamentals**  
+- ✅ Peer Mentoring – **RMIT University**  
 
 ---
 
-## 🎖 Certifications
+## 📈 GitHub Activity  
 
-### ✅ **Microsoft Certified: Azure AI Fundamentals**
-- Earned **Azure AI Fundamentals** certification, demonstrating expertise in **AI concepts & Azure services**.
-
-### ✅ **Peer Mentoring – RMIT University**
-- Provided **mentorship** to **computer science & IT students**, enhancing **academic guidance & community engagement**.
-
----
-
-## 🌟 Let's Connect!
-📧 [ayushkp38@gmail.com](mailto:ayushkp38@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ayushkpatel)  
-🌐 [GitHub](https://github.com/ayushpatel2002)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpatel2002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatel2002&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-🎨 *Designed with precision & passion for data-driven insights!* 🚀
+<p align="center">✨ Let’s turn data into impact together ✨</p>
+<p align="center">Made with ❤️ + ☕ by Ayush Patel</p>
