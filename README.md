@@ -12,11 +12,14 @@
 
 ## 🚀 About Me  
 
-I’m a **data analyst** who loves uncovering stories hidden in data.  
-From **Power BI dashboards** guiding education policy to **SQL-based fraud detection systems**,  
-I thrive on turning complexity into clarity.  
+I believe data is more than numbers — it’s **a story waiting to be told**.  
+Through my work, I aim to **turn raw information into insights** that guide better decisions, improve systems, and create meaningful outcomes.  
 
-✨ My focus: **Data → Insights → Impact.**
+Whether it’s building dashboards that **help policymakers shape education strategy**, developing models that **predict future trends**, or designing systems that **make data more accessible**, my focus is always the same:  
+
+✨ **using data to drive real-world impact.**  
+
+I thrive at the intersection of **analysis, communication, and problem-solving** — translating complex findings into clear, actionable insights that help people and organisations move forward with confidence.  
 
 ---
 
