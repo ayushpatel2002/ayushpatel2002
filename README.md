@@ -1,7 +1,9 @@
+<!-- 🎨 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushpatel2002/ayushpatel2002/main/assets/banner.png" alt="Ayush Patel - Data Analyst" width="100%" />
+  <img src="assets/banner.png" alt="Ayush Patel - Data Analyst | Turning Data Into Impact" width="100%" />
 </p>
 
+<!-- 🌐 Links -->
 <p align="center">
   <a href="mailto:ayushkp38@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/ayushkpatel">🔗 LinkedIn</a> •
@@ -10,28 +12,29 @@
 
 ---
 
-## 🌟 About Me  
+<h2 align="center">🌟 About Me</h2>
 
-I turn **raw data into clarity.**  
-Numbers, patterns, and systems are my canvas — insights are the art.  
-
-From helping policymakers in education see the **bigger picture**,  
-to building models that **predict what’s next**,  
-I believe in one thing:  
-
-✨ Data should **drive impact, not just sit in dashboards.**
+<p align="center">
+I turn <b>raw data into clarity.</b><br>
+Numbers, patterns, and systems are my canvas — <i>insights are the art.</i><br><br>
+From helping policymakers see the <b>bigger picture</b>,<br>
+to building models that <b>predict what’s next</b>,<br><br>
+✨ Data should <b>drive impact</b>, not just sit in dashboards.
+</p>
 
 ---
 
-## 🛠️ Toolbox  
+<h2 align="center">🛠️ Toolbox</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/64/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/64/r-project.png" alt="R"/>
-  <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/64/postgreesql.png" alt="Postgres"/>
-  <img src="https://img.icons8.com/color/64/azure-1.png" alt="Azure"/>
-  <img src="https://img.icons8.com/color/64/apachespark.png" alt="Apache Spark"/>
+  <img src="https://img.icons8.com/color/64/python.png" alt="Python"/>  
+  <img src="https://img.icons8.com/color/64/r-project.png" alt="R"/>  
+  <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI"/>  
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/64/postgreesql.png" alt="Postgres"/>  
+  <img src="https://img.icons8.com/color/64/azure-1.png" alt="Azure"/>  
+  <img src="https://img.icons8.com/color/64/apachespark.png" alt="Apache Spark"/>  
 </p>
 
 <p align="center">
@@ -40,48 +43,52 @@ I believe in one thing:
 
 ---
 
-## 🚀 Projects  
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center">
 
-🔍 **[Energy Use Prediction (R)](https://github.com/ayushpatel2002/Energy-Use-Prediction-with-R)**  
-*Forecasting household energy demand with feature engineering & predictive modeling.*
+💡 <a href="https://github.com/ayushpatel2002/Energy-Use-Prediction-with-R"><b>Energy Use Prediction (R)</b></a><br>
+<sub>Forecasting energy demand with feature engineering & predictive modeling.</sub>  
 
-🤖 **[NLP Job Ads Classifier](https://github.com/ayushpatel2002/Flask-JobSeeker-with-NLP)**  
-*Classifying job ads with NLP preprocessing + ML (85% accuracy).*
+🤖 <a href="https://github.com/ayushpatel2002/Flask-JobSeeker-with-NLP"><b>NLP Job Ads Classifier</b></a><br>
+<sub>Classifying job ads with NLP preprocessing + ML (85% accuracy).</sub>  
 
-🛡️ **[Fraud Detection with SQL](https://github.com/ayushpatel2002/FraudDetectionWithSQL)**  
-*Schema + anomaly detection to flag high-risk transactions.*
+🛡️ <a href="https://github.com/ayushpatel2002/FraudDetectionWithSQL"><b>Fraud Detection with SQL</b></a><br>
+<sub>PostgreSQL schema + anomaly detection to flag high-risk transactions.</sub>  
 
 </p>
 
 ---
 
-## 💼 Experience  
+<h2 align="center">💼 Experience</h2>
 
-**Graduate Data Analyst** — *NT Department of Education*  
-📅 2024 – Present  
-- Designed dashboards shaping **education policy**  
-- Analyzed **AEDC datasets** to guide planning  
+<p align="center">
+<b>Graduate Data Analyst</b> — NT Department of Education (2024 – Present)<br>
+<sub>Power BI dashboards for policy • AEDC analysis • Program impact assessment</sub>  
+</p>
 
-**Data Lakehouse Intern** — *Digicor*  
-📅 2023  
-- Built **data lakehouse** with Spark + Delta Lake  
-- Optimized pipelines, improving efficiency **20%**  
-
----
-
-## 🎓 Education & Certs  
-
-🎓 **B.IT (Data Science Major)** — RMIT University (2021–2024)  
-📊 GPA 3.5 / 4 | WAM 85  
-
-🎖 **Azure AI Fundamentals** (Microsoft)  
-🎖 **Peer Mentoring** (RMIT University)  
+<p align="center">
+<b>Data Lakehouse Intern</b> — Digicor (2023)<br>
+<sub>Spark + Delta Lake build • 20% pipeline efficiency boost • API integration</sub>  
+</p>
 
 ---
 
-## 📈 GitHub Snapshot  
+<h2 align="center">🎓 Education & Certs</h2>
+
+<p align="center">
+🎓 <b>B.IT (Data Science Major)</b> — RMIT University (2021–2024)<br>
+<sub>GPA 3.5 / 4 | WAM 85</sub>  
+</p>
+
+<p align="center">
+🎖 Microsoft Certified: <b>Azure AI Fundamentals</b><br>
+🎖 <b>Peer Mentoring</b> — RMIT University  
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Snapshot</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushpatel2002&show_icons=true&theme=calm&hide_border=true" />
@@ -90,7 +97,7 @@ I believe in one thing:
 ---
 
 <p align="center">
-  <b>✨ Let’s turn data into stories that matter ✨</b>  
+  <b>✨ Let’s turn data into stories that matter ✨</b>
 </p>
 
 <p align="center">
