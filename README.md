@@ -27,14 +27,14 @@ to building models that <b>predict what’s next</b>,<br><br>
 <h2 align="center">🛠️ Toolbox</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/64/python.png" alt="Python"/>  
-  <img src="https://img.icons8.com/color/64/r-project.png" alt="R"/>  
-  <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI"/>  
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/color/64/postgreesql.png" alt="Postgres"/>  
-  <img src="https://img.icons8.com/color/64/azure-1.png" alt="Azure"/>  
-  <img src="https://img.icons8.com/color/64/apachespark.png" alt="Apache Spark"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Spark"/>  
 </p>
 
 <p align="center">
