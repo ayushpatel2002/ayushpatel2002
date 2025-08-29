@@ -1,6 +1,6 @@
-<!-- 🎨 Banner -->
+<!-- ✨ Intro Typing Effect -->
 <p align="center">
-  <img src="assets/banner.png" alt="Ayush Patel - Data Analyst | Turning Data Into Impact" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Patel+👋;Data+Analyst+|+Turning+Data+Into+Impact;Power+BI+•+SQL+•+R+•+Python" />
 </p>
 
 <!-- 🌐 Links -->
