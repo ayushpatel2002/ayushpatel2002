@@ -78,7 +78,7 @@ to building models that <b>predict what’s next</b>,<br><br>
 
 <p align="center">
 🎓 <b>B.IT (Data Science Major)</b> — RMIT University (2021–2024)<br>
-<sub>GPA 3.5 / 4 | WAM 85</sub>  
+<sub>GPA 4 / 4 | WAM 85</sub>  
 </p>
 
 <p align="center">
